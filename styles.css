@@ -1,0 +1,55 @@
+h1 {
+    font-family: papyrus;
+    border-bottom-style: solid;
+}
+p {
+    font-family: helvetica;
+}
+#head1 {
+    text-align: center;
+}
+#source {
+    font-size: 10px;
+}
+#homecolor {
+    background-color: #ccffcc;
+}
+#titleKraken {
+    background-color: #0af0f8;
+}
+#titleCyclops {
+    background-color: #ccff99;
+}
+#titleGriffin {
+    background-color: #ffcc99;
+}
+.bigpic {
+    width:200px;height:250px;
+}
+.littlepic {
+    width:300px;height:250px;
+}
+.para2{
+    font-size: 14px;
+}
+.link {
+    font-weight: bold;
+}
+a:link {
+    color:blue;
+}
+a:visited {
+    color:green;
+}
+a:hover {
+    color:red;
+}
+div#thanks span  {
+    color: purple;
+}
+div span {
+    color: green;
+}
+span {
+    color: red;
+}
